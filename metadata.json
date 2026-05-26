@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "An elegant, lightweight, and modern Material 3 calculator app supporting calculations, history logs, and customization options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
